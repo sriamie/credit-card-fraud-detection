@@ -11,4 +11,4 @@ In addition, I will be exploring the use of data visualization techniques common
 
 
 
-Dataset Link: https://www.kaggle.com/mlg-ulb/creditcardfraud/downloads/creditcardfraud.zip/3
+Competition Link: https://www.kaggle.com/mlg-ulb/creditcardfraud
